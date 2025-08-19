@@ -1,0 +1,156 @@
+{
+  "acids": [
+    {
+      "name": "Acetic Acid (CH3COOH)",
+      "type": "monoprotic acid",
+      "Ka": [1.75e-5]
+    },
+    {
+      "name": "Arsenic Acid (H3AsO4)",
+      "type": "triprotic acid",
+      "Ka": [5.5e-3, 1.7e-7, 5.1e-12]
+    },
+    {
+      "name": "Benzoic Acid (C6H5COOH)",
+      "type": "monoprotic acid",
+      "Ka": [6.25e-5]
+    },
+    {
+      "name": "Boric Acid (H3BO3)",
+      "type": "triprotic acid",
+      "Ka": [5.4e-10, 1e-14]
+    },
+    {
+      "name": "Carbonic Acid (H2CO3)",
+      "type": "diprotic acid",
+      "Ka": [4.5e-7, 4.7e-11]
+    },
+    {
+      "name": "Citric Acid (C6H8O7)",
+      "type": "triprotic acid",
+      "Ka": [7.4e-4, 1.7e-5, 4.0e-7]
+    },
+    {
+      "name": "Formic Acid (CH2O2)",
+      "type": "monoprotic acid",
+      "Ka": [1.8e-4]
+    },
+    {
+      "name": "Hydrocyanic Acid (HN3)",
+      "type": "monoprotic acid",
+      "Ka": [6.2e-10]
+    },
+    {
+      "name": "Hydrofluoric Acid (HF)",
+      "type": "monoprotic acid",
+      "Ka": [6.3e-4]
+    },
+    {
+      "name": "Hydrosulfuric Acid (H2S)",
+      "type": "monoprotic acid",
+      "Ka": [8.9e-8]
+    },
+    {
+      "name": "Hydrochloric Acid (HCl)",
+      "type": "strong monoprotic",
+      "Ka": [1.3e6]
+    },
+    {
+      "name": "Hypochlorous Acid (HClO)",
+      "type": "monoprotic acid",
+      "Ka": [4.0e-8]
+    },
+    {
+      "name": "Perchloric Acid (HClO4)",
+      "type": "strong monoprotic acid",
+      "Ka": "very large"
+    },
+    {
+      "name": "Chlorous Acid (HClO2)",
+      "type": "monoprotic acid",
+      "Ka": [1.1e-2]
+    },
+    {
+      "name": "Sulfuric Acid (H2SO4)",
+      "type": "strong diprotic acid",
+      "Ka": [1.0e3, 1.0e-2]
+    },
+    {
+      "name": "Sulfurous Acid (H2SO3)",
+      "type": "diprotic acid",
+      "Ka": [1.3e-2, 6.3e-8]
+    },
+    {
+      "name": "Nitric Acid (HNO3)",
+      "type": "strong monoprotic acid",
+      "Ka": [2.4e1]
+    },
+    {
+      "name": "Nitrous Acid (HNO2)",
+      "type": "monoprotic acid",
+      "Ka": [7.2e-4]
+    },
+    {
+      "name": "Phenol (C6H5OH)",
+      "type": "monoprotic acid",
+      "Ka": [1.0e-10]
+    },
+    {
+      "name": "Phosphoric Acid (H3PO4)",
+      "type": "triprotic acid",
+      "Ka": [6.9e-3, 6.2e-8, 4.8e-13]
+    },
+    {
+      "name": "Phosphorous Acid (H3PO3)",
+      "type": "diprotic",
+      "Ka": [5.0e-2, 2.0e-7]
+    },
+    {
+      "name": "Other",
+      "type": "",
+      "Ka": "unknown"
+    }
+  ],
+  "bases": [
+    {
+      "name": "Sodium Hydroxide (NaOH)",
+      "type": "strong monoprotic base",
+      "Kb": ["very large"]
+    },
+    {
+      "name": "Aniline (C6H5NH2)",
+      "type": "monoprotic base",
+      "Kb": [4.3e-10]
+    },
+    {
+      "name": "Ammonia (NH3)",
+      "type": "monoprotic base",
+      "Kb": [1.8e-5]
+    },
+    {
+      "name": "Magnesium Hydroxide (Mg(OH)2)",
+      "type": "diprotic base",
+      "Kb": [5.6e-12, 1.0e-13]
+    },
+    {
+      "name": "Iron (II) Hydroxide (Fe(OH)2)",
+      "type": "monoprotic base",
+      "Kb": [4.0e-4]
+    },
+    {
+      "name": "Lithium Hydroxide (LiOH)",
+      "type": "strong monoprotic base",
+      "Kb": ["very large"]
+    },
+    {
+      "name": "Aluminium Hydroxide (Al(OH)3)",
+      "type": "triprotic base",
+      "Kb": [3.0e-30, 3.0e-34, 3.0e-38]
+    },
+    {
+      "name": "Other",
+      "type": "",
+      "Kb": "unknown"
+    }
+  ]
+}
